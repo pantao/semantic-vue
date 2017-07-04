@@ -1,0 +1,9 @@
+{
+  "name": "semantic-vue",
+  "version": "0.0.0",
+  "description": "Semantic UI for VueJS",
+  "main": "index.js",
+  "repository": "git@github.com:pantao/vue-semantic-ui.git",
+  "author": "pantao <54778899@qq.com>",
+  "license": "GPL"
+}
